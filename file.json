@@ -1,5 +1,10 @@
 {
-  "1":"one json",
-  "2":"two json",
-  "3":"three json"
+"the_cat": "The Cat",
+"dogs": {
+       "pitbull": "A pitbull",
+       "collie": "A collie",
+       "small_dogs": {
+               "poodle": "A teacup poodle"
+       }
+  }
 }
